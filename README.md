@@ -1,28 +1,90 @@
-## 👋 Hi, I’m Mohamed Fouad
+<div align="center">
 
-I am seeking remote employment opportunities with international teams, or local opportunities in and around Egypt.
-Open to various employment forms, including full-time positions, contract work, or B2B arrangements. Contact me if you have a project that could benefit from my expertise.
+# 👋 Hi, I'm Mohamed Fouad
 
-## [My Portfolio](https://portfolio-mohamed-fouads-projects-a33672f1.vercel.app/)
+### Full-Stack Developer | React & TypeScript Specialist
 
-## My Stack : 
-<!---
-MooFouad/MooFouad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-mohamed-fouads-projects-a33672f1.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-![html-124-svgrepo-com](https://github.com/MooFouad/MooFouad/assets/71189445/b358fca7-75fd-4f24-8540-24bd9517fcd6)
-![css3-02-svgrepo-com](https://github.com/MooFouad/MooFouad/assets/71189445/7dcfa261-1dc4-4b7e-827e-b7d06459493c)
-![js-svgrepo-com](https://github.com/MooFouad/MooFouad/assets/71189445/4ac49249-48d2-42f0-8ab0-e5176b566526)
-![react-svgrepo-com](https://github.com/MooFouad/MooFouad/assets/71189445/e0a61b7f-da41-4bc9-87f8-03d58896b45f)
-![typescript-official-svgrepo-com](https://github.com/MooFouad/MooFouad/assets/71189445/cc337745-1295-4514-a71a-ea7df53b5b71)
-![redux-svgrepo-com](https://github.com/MooFouad/MooFouad/assets/71189445/e57146c8-b754-41f0-94d5-798c7566003b)
-![jest-snapshot-svgrepo-com](https://github.com/MooFouad/MooFouad/assets/71189445/cb3c3b45-abc0-4295-a01c-f6a7378895ac)
-![firebase-svgrepo-com](https://github.com/MooFouad/MooFouad/assets/71189445/8509209b-f242-488f-a904-581a655f4e54)
-![sass-svgrepo-com](https://github.com/MooFouad/MooFouad/assets/71189445/ce4440a6-a1e4-4fd1-9394-c044e850936e)
-![tailwind-svgrepo-com](https://github.com/MooFouad/MooFouad/assets/71189445/84f79c83-7947-4921-8701-fef9047d0d20)
-![styled-components-svgrepo-com](https://github.com/MooFouad/MooFouad/assets/71189445/6a5a834d-229e-4216-bed8-ee59a207e0c5)
-![git-svgrepo-com](https://github.com/MooFouad/MooFouad/assets/71189445/cccb9f45-6152-4d21-89b8-e2403ae708f7)
-![github-142-svgrepo-com](https://github.com/MooFouad/MooFouad/assets/71189445/bac6678c-7461-4a69-bee5-489f62a07eb9)
+</div>
 
+---
 
+## 💼 About Me
+
+```typescript
+const mohamed = {
+  location: "Egypt 🇪🇬",
+  availability: "Open to remote & local opportunities",
+  workTypes: ["Full-time", "Contract", "B2B"],
+  currentFocus: "Building scalable web applications",
+  lookingFor: "International teams & exciting projects"
+};
+```
+
+I'm a passionate developer seeking **remote opportunities with international teams** or local positions in Egypt. I specialize in creating modern, responsive web applications with clean code and best practices.
+
+---
+
+## 🚀 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### Styling
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+
+### Backend & Tools
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MooFouad&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MooFouad&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MooFouad&theme=radical&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 What I'm Up To
+
+- 🔭 Building modern web applications with React & TypeScript
+- 🌱 Continuously learning and improving my skills
+- 👯 Looking to collaborate on exciting projects
+- 💼 Open for freelance/contract work
+- 📫 Reach out if you have a project that needs my expertise
+
+---
+
+## 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=MooFouad&color=brightgreen&style=for-the-badge)
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect!
+
+**I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.**
+
+</div>
