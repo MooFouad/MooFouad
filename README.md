@@ -16,7 +16,7 @@
 
 ```typescript
 const mohamed = {
-  location: "Egypt 🇪🇬",
+  location: "Riyadh, Saudi Arabia 🇸🇦",
   availability: "Open to remote & local opportunities",
   workTypes: ["Full-time", "Contract", "B2B"],
   currentFocus: "Building scalable web applications",
