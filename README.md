@@ -24,7 +24,7 @@ const mohamed = {
 };
 ```
 
-I'm a passionate developer seeking **remote opportunities with international teams** or local positions in Egypt. I specialize in creating modern, responsive web applications with clean code and best practices.
+I'm a passionate developer seeking **remote opportunities with international teams** or local positions in Riyadh, Saudi Arabia. I specialize in creating modern, responsive web applications with clean code and best practices.
 
 ---
 
