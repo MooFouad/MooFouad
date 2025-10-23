@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Mohamed Fouad
 
-### Full-Stack Developer | React & TypeScript Specialist
+### Full Stack Developer (MERN Stack)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://mofouad.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
