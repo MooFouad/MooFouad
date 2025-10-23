@@ -24,7 +24,7 @@ const mohamed = {
 };
 ```
 
-I'm a passionate developer seeking **remote opportunities with international teams** or local positions in Riyadh, Saudi Arabia. I specialize in creating modern, responsive web applications with clean code and best practices.
+Results-driven Full Stack Developer with 2+ years of experience specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). Proven expertise in architecting and delivering scalable, high-performance web applications with a focus on clean code, optimal user experience, and modern development practices. Adept at both frontend and backend development, with a strong foundation in responsive design, RESTful API integration, database architecture, and performance optimization.
 
 ---
 
