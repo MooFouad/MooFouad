@@ -24,7 +24,9 @@ const mohamed = {
 };
 ```
 
-Results-driven Full Stack Developer with 2+ years of experience specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). Proven expertise in architecting and delivering scalable, high-performance web applications with a focus on clean code, optimal user experience, and modern development practices. Adept at both frontend and backend development, with a strong foundation in responsive design, RESTful API integration, database architecture, and performance optimization.
+Frontend Developer with 2+ years of experience in React.js, Next.js, and TypeScript, focused on building 
+scalable, performance-driven web applications. Experienced in clean architecture, API integration, SEO 
+optimization, and delivering maintainable code under tight deadlines.
 
 ---
 
